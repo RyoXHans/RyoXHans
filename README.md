@@ -1,1 +1,1 @@
-![Banner](RyoXHans/WELCOME.png)
+![Banner](https://github.com/RyoXHans/RyoXHans/blob/main/WELCOME.png?raw=true)
